@@ -22,17 +22,12 @@ abc=[' ','a','b','c','d','e','f','g','h','i','j','k','l','m','n','ñ','o','p','q
 ciclo = 1
 while ciclo == 1:
 
-	os.system('clear')#manadando la instruccion de clear de mi sistema
+	os.system('clear') #manadando la instruccion de clear de mi sistema
 	#pedimos al usuario ingresar una cadena
 	x = str(input("ingresa una cadena , por favor:"))
 
-	#a modo de prueba mostramos la cadena ingresada
-	#print("la cadena ingresada es: ",x)
-
-	#definims a el tamaño de la cadena com o "tam"
+	#definims a el tamaño de la cadena como "tam"
 	tam = len(x)
-	#imprimimos la longitud de la cadena
-	#print("el tamaño de la cadena es: ",tam,"\n\n")
 
 	#codificando
 	#comenzamos el bucle que terminara cuando "range" sea igual al tamaño "tam" de la cadena"x"
