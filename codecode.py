@@ -22,7 +22,7 @@ abc=[' ','a','b','c','d','e','f','g','h','i','j','k','l','m','n','ñ','o','p','q
 ciclo = 1
 while ciclo == 1:
 
-	os.system('clear') #manadando la instruccion de clear de mi sistema
+	os.system('clear') #mandando la instruccion de clear de mi sistema
 	#pedimos al usuario ingresar una cadena
 	x = str(input("ingresa una cadena , por favor:"))
 
