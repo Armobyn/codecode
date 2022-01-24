@@ -5,7 +5,7 @@
 """
  -------------------------------------------------------------------------
 | Autor: Eder Hernández Guzmán                                            |
-| Alias: Amonion                                                          |
+| Alias: EDHG                                                          |
 | Objetivo: Encriptar un texto                                            |
 | Funcion: escribimos un texto el programa lo encripta, de igual manera   |
 | lo desencripta en caso de haber sido encriptado                         |
